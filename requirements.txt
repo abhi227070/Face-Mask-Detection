@@ -1,2 +1,7 @@
 streamlit
-requests
+streamlit-webrtc
+opencv-python
+tesnorflow
+keras
+numpy
+scikit-learn
